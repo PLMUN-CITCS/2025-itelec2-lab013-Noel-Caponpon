@@ -6,5 +6,5 @@ for num in numbers:
 
         if num == 7:
         break  # Exit the loop completely
-
-print(num)
+        
+        print(num)
